@@ -1,0 +1,1 @@
+# Prediction-of-Diabetic-Patient-using-SVM-KNN-and-Neural-Network
